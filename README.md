@@ -1,0 +1,1 @@
+This is Online Education Platform . which is has Two Panel One for Instuctor And Student.Instructor has authorised to Create A Course And See The Student Progress. Student has authorised to Buy a Course And Give Review And Rating. Doubt Form Also Present For the Student. Using Html, TailwindCss, React , Nodejs, Express.js, MongoDb
